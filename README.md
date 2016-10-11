@@ -1,2 +1,4 @@
 # demo
-demo for CIT 160
+Demo for CIT 160
+Your Name:
+Your Favorite Color:
